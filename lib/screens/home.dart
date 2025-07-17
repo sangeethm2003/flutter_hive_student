@@ -105,7 +105,6 @@ class _HomeState extends State<Home> {
 
             const SizedBox(height: 10),
 
-    
             Expanded(
               child: ValueListenableBuilder(
                 valueListenable: studentBox.listenable(),
